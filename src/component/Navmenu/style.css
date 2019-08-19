@@ -1,0 +1,14 @@
+
+
+.navitem a, li{
+    text-decoration: none;
+    list-style: none;
+
+}
+.nav-item:hover .sublist{
+    display:flex;
+    flex-direction:column;
+    margin-right: 15px;
+    
+    
+}
